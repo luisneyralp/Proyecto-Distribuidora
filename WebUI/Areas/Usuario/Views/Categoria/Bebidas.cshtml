@@ -1,0 +1,30 @@
+﻿@model IEnumerable<WebUI.Entities.Producto>
+@{
+    ViewBag.Title = "Bebidas";
+}
+
+<!--product-starts-->
+<div class="container">
+    <ol class="breadcrumb">
+        <li>@Html.ActionLink("Inicio", "Index", "VistaGeneral")</li>
+        <li>Bebidas</li>
+    </ol>
+
+
+    <div class="container heading">
+        <h2>Productos de Bebidas</h2>
+    </div>
+    <br /><br />
+    <div class="container">
+        <div class="row">
+            <section id="mainContent" class="col-md-12">
+                <div class="row is-flex">
+                    @foreach (var item in Model)
+                    {
+                        @Html.Partial("_Producto", item)
+                    }
+                </div>
+            </section>
+        </div>
+    </div>
+</div>

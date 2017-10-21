@@ -1,0 +1,47 @@
+﻿@model WebUI.Areas.Usuario.Models.CheckOutViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <ol class="breadcrumb">
+        <li>@Html.ActionLink("Inicio", "Index", "VistaGeneral")</li>
+        <li>Producto</li>
+    </ol>
+    <h3>Descripcion del Producto</h3>
+    <br />
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.HiddenFor(model => model.Producto.Id)
+        <div class="col-md-4">
+            <div class="caption">
+                <b class="text-info">Nombre:</b><p>@Model.Producto.Nombre</p>
+                <b class="text-info">Categoría:</b><p>@Model.Producto.TipoCategoria.Nombre</p>
+                <b class="text-info">Descripción:</b><p>@Model.Producto.Descripcion</p>
+                <b class="text-info">Precio:</b><p>@Model.Producto.Precio$</p>
+            </div>
+            <br />
+            @Html.HiddenFor(model => model.ModeloPedido.Id)
+            <div class="form-group">
+                @Html.LabelFor(model => model.ModeloPedido.Cantidad, htmlAttributes: new { @class = "control-label col-md-4" })
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.ModeloPedido.Cantidad, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ModeloPedido.Cantidad, "", new { @class = "text-danger" })
+                </div>
+                <p>
+                    <input type="submit" value="Add Cart" class="btn btn-primary" />
+                </p>
+            </div>
+        </div>
+        <div class="col-md-8">
+            @if (!string.IsNullOrEmpty(Model.Producto.ImagenUri))
+            {
+                <img src="@Url.Content(Model.Producto.ImagenUri)" alt="Image" class="img-responsive" />
+            }
+        </div>
+    }
+
+</div>

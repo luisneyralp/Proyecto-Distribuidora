@@ -1,0 +1,32 @@
+﻿
+@{
+    var user = (WebUI.Entities.Usuarios)Session[WebUI.Utilities.Strings.KeyCurrentUser];
+}
+
+<!--top-header-->
+<div class="top-header">
+    <div class="container">
+        <div class="top-header-main">
+            <div class="top-header-left">
+                <div class="drop">
+                    <div class="pull-left">
+                        <img src="~/images/cart-1.png" alt=""/>
+                        @Html.ActionLink("Carrito", "Index", "Carrito",null, new {@class = "btn btn-success" })
+                    </div>
+                    <div class="pull-right">
+                        <img src="~/images/icon_user.png" alt=""/>
+                        @Html.ActionLink(user.Nombre + " " + user.Apellido, "MiCuenta", "VistaGeneral",null, new {@class = "btn btn-info"})
+                        @Html.ActionLink("Salir", "Logout", "Home", new { area = "" }, new { @class = "btn-sm btn-danger" })
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<!--top-header-->
+<!--start-logo-->
+<div class="logo">
+    <a><h1>Distribuidora Hextech</h1></a>
+</div>
+<!--start-logo-->

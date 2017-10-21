@@ -1,0 +1,72 @@
+﻿
+@model IEnumerable<WebUI.Entities.Usuarios>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <div class="col-md-6">
+    <h2>Gestión de Clientes</h2>
+    @Html.ActionLink("Dar de Alta un Cliente", "DarAlta","VistaGeneral", null, new { @class = "btn btn-warning" })
+
+</div>
+    <div class="container col-md-8">
+        <h3>Lista de Clientes</h3>
+        <table class="table table-hover table-bordered">
+            <tr>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th class="text-info">
+                    Dirección
+                </th>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.Apellido)
+                </th>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th class="text-info">
+                    Gestión
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Direccion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Apellido)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Editar", "Editar", "VistaGeneral", new { id = item.Id }, new { @class = "text-warning" })
+                    </td>
+                    <td>
+                        @Html.ActionLink("Dar Baja", "DarBaja", "VistaGeneral", new { id = item.Id }, new { @class = "text-danger" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+<div class="clearfix">
+
+</div>

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<WebUI.Entities.Pedido>
+
+@{
+    ViewBag.Title = "ListaPedidos";
+}
+
+
+<div class="container">
+    <ol class="breadcrumb">
+        <li>@Html.ActionLink("Inicio", "Index", "VistaGeneral")</li>
+        <li>Lista Pedidos</li>
+    </ol>
+    <div class="col-md-6">
+        <h2>Pedidos Confirmados</h2>
+        <table class="table table-hover table-bordered">
+            <tr>
+                
+                <th class="text-info">
+                    Dirección
+                </th>
+                <th class="text-info">
+                    Nombre
+                </th>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.MontoTotal)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DireccionCliente)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreCompletoCliente)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MontoTotal)$
+                    </td>
+                    <td>
+                        @Html.ActionLink("Ver Pedido", "VerPedido", "Pedido", new { id = item.Id, nombreCompleto = item.NombreCompletoCliente, montoTotal = item.MontoTotal }, new { @class = "btn btn-success" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+    <div class="col-md-6">
+        <b>Limpieza de pedidos: </b>
+        @Html.ActionLink("Borrar Pedidos", "PedidoGestor", "Pedido", null, new { @class = "btn btn-danger" })
+    </div>
+</div>

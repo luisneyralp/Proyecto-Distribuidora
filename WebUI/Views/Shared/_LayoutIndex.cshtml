@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Distribuidora Hextech</title>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+    @Styles.Render("~/Content/assets")
+    @RenderSection("styles", required: false)
+</head>
+<body>
+    @RenderBody()
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts",required:false)
+    <script src="@Url.Content("~/assets/js/jquery.backstretch.min.js")"></script>
+    <script src="@Url.Content("~/assets/js/scripts.js")"></script>
+</body>
+</html>

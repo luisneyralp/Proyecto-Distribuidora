@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Inicio</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/temp")
+    @RenderSection("styles", required: false)
+</head>
+<body>
+    @Html.Partial("_Header")
+    @Html.Partial("_List")
+    @RenderBody()
+    @Html.Partial("_Footer")
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/app")
+    @Scripts.Render("~/bundles/template")
+    @if (TempData[WebUI.Utilities.Strings.KeyMensajeDeAccion] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                App.showMessage(true, '@TempData[WebUI.Utilities.Strings.KeyMensajeDeAccion].ToString()');
+            });
+        </script>
+    }
+    <script type="application/x-javascript">
+        addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); }
+    </script>
+    <script>
+        $(document).ready(function () {
+            $(".memenu").memenu();
+        });
+    </script>
+    <script>
+        // You can also use "$(window).load(function() {"
+        $(function () {
+            // Slideshow 4
+            $("#slider4").responsiveSlides({
+                auto: true,
+                pager: true,
+                nav: true,
+                speed: 500,
+                namespace: "callbacks",
+                before: function () {
+                    $('.events').append("<li>before event fired.</li>");
+                },
+                after: function () {
+                    $('.events').append("<li>after event fired.</li>");
+                }
+            });
+
+        });
+    </script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

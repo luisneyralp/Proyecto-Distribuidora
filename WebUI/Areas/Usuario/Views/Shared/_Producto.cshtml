@@ -1,0 +1,27 @@
+﻿@using WebUI.Entities
+@model Producto
+
+@{
+    var user = (WebUI.Entities.Usuarios)Session[WebUI.Utilities.Strings.KeyCurrentUser];
+    var definitivo = WebUI.Managers.PedidoManagers.GetById(user.Id).Definitivo;
+}
+<div class="col-sm-4 col-md-3 product-left">
+    <div class="product-main simpleCart_shefItem">
+        @if (Model.ImagenUri != "")
+        {
+            <img src="@Url.Content(Model.ImagenUri)" alt="Image" class="img-responsive" />
+        }
+        <div class="caption">
+            <h4>@Model.Nombre</h4>
+            <p>@Model.Descripcion</p>
+            <b>@Model.Precio</b>$
+            <br />
+            @if (definitivo == 0)
+            {
+                @Html.ActionLink("Add Cart", "Index", "CheckOut", new { id = Model.Id }, new { @class = "btn btn-success" })
+            }
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,13 @@
+Preguntas:
+
+- Boton Cerrar carrito: esta mal que me permita cerrar carrito cuando el cliente
+no tiene ninguna compra (esto causa que en la vista admin aparesca en lista pedido, sin
+embargo esta estara vacia)
+
+- Campo marca en producto.
+
+- Buscador de clientes y de Productos (select * from Usuario where Apellido like ('a%'))
+
+- Campo fecha en pedido.
+
+

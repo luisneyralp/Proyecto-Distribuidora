@@ -1,0 +1,106 @@
+﻿@model IEnumerable<WebUI.Entities.Producto>
+
+@{
+    ViewBag.Title = "Index";
+    double montoTotal = 0.00;
+    var user = (WebUI.Entities.Usuarios)Session[WebUI.Utilities.Strings.KeyCurrentUser];
+    var definitivo = WebUI.Managers.PedidoManagers.GetById(user.Id).Definitivo;
+}
+
+<div class="container">
+    <ol class="breadcrumb">
+        <li>@Html.ActionLink("Inicio", "Index", "VistaGeneral")</li>
+        <li>Carrito</li>
+    </ol>
+    <div class="col-md-8">
+        @if (definitivo == 0)
+        {
+            <h2>Carrito de Compras</h2>
+        }
+        else
+        {
+            <h3>Carrito Cerrado</h3>
+            <p class="text-danger">Su carrito ha sido cerrado</p>
+        }
+        <table class="table table-hover table-bordered">
+            <tr>
+                <th class="text-info" style="width:100px;">
+                    Imagen
+                </th>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.Cantidad)
+                </th>
+                <th class="text-info">
+                    Precio Unitario
+                </th>
+                <th class="text-info">
+                    Precio Total
+                </th>
+                <th class="text-info">
+                    Descripción
+                </th>
+                <th class="text-info">
+                    Gestión
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @if (item.ImagenUri != "")
+                        {
+                            <img src="@Url.Content(item.ImagenUri)" alt="Image" class="img-responsive" />
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cantidad)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Precio)$
+                    </td>
+                    <td>
+                        @(item.Cantidad * item.Precio)$
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    @if (definitivo == 0)
+                    {
+                        <td>
+                            @Html.ActionLink("Quitar", "QuitarProducto", new { id = item.Id }, new { @class = "text-danger" })
+                        </td> 
+                    }
+                </tr>
+                montoTotal = montoTotal + item.Precio * item.Cantidad;
+            }
+
+        </table>
+        <p><b>Monto Total: @montoTotal$</b></p>
+        <br />
+
+        @if (definitivo == 0)
+        {
+            <p class="text-primary">Si ya tiene confirmado su pedido, por favor cierre el carrito.</p>
+            @Html.ActionLink("Cerrar Carrito", "CheckOut", null, new { monto = montoTotal }, new { @class = "btn btn-primary" })
+        }
+        else
+        {
+            <p class="text-warning">Si quiere seguir comprando, puede volver a abrir el carrito</p>
+            @Html.ActionLink("Abrir Carrito", "CheckIn", null, null, new { @class = "btn btn-warning" })
+        }
+
+
+
+
+    </div>
+
+</div>
+<br />
+<br />

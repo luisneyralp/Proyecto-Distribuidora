@@ -1,0 +1,444 @@
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\ApplicationInsights.config
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe.config
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.rsp
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.exe
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.rsp
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\System.AppContext.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe.config
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.rsp
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\WebUI.dll.config
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\WebUI.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\WebUI.pdb
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\WebGrease.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.pdb
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.xml
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Helpers.resources.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Mvc.resources.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Optimization.resources.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Razor.resources.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.resources.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.dll
+c:\users\luis neyra\documents\visual studio 2017\Projects\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.pdb
+F:\ProyectoLuisNeyra\WebUI\bin\ApplicationInsights.config
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe.config
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.rsp
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.exe
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.rsp
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.AppContext.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe.config
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.rsp
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe
+F:\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\ProyectoLuisNeyra\WebUI\bin\WebUI.dll.config
+F:\ProyectoLuisNeyra\WebUI\bin\WebUI.dll
+F:\ProyectoLuisNeyra\WebUI\bin\WebUI.pdb
+F:\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.dll
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.dll
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.dll
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.dll
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.dll
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.dll
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.dll
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.dll
+F:\ProyectoLuisNeyra\WebUI\bin\WebGrease.dll
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.xml
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.xml
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.xml
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.xml
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.xml
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.xml
+F:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.xml
+F:\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.pdb
+F:\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.xml
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.xml
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.xml
+F:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.xml
+F:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Helpers.resources.dll
+F:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Mvc.resources.dll
+F:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Optimization.resources.dll
+F:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Razor.resources.dll
+F:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.resources.dll
+F:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+F:\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.dll
+F:\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.pdb
+D:\ProyectoLuisNeyra\WebUI\bin\ApplicationInsights.config
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe.config
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.rsp
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.exe
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.rsp
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.AppContext.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe.config
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.rsp
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe
+D:\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\ProyectoLuisNeyra\WebUI\bin\WebUI.dll.config
+D:\ProyectoLuisNeyra\WebUI\bin\WebUI.dll
+D:\ProyectoLuisNeyra\WebUI\bin\WebUI.pdb
+D:\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.dll
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.dll
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.dll
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.dll
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.dll
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.dll
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\ProyectoLuisNeyra\WebUI\bin\WebGrease.dll
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.xml
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.xml
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.xml
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.xml
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.xml
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.pdb
+D:\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.xml
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.xml
+D:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Helpers.resources.dll
+D:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Mvc.resources.dll
+D:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Optimization.resources.dll
+D:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Razor.resources.dll
+D:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.resources.dll
+D:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.dll
+D:\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.pdb
+E:\ProyectoLuisNeyra\WebUI\bin\ApplicationInsights.config
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe.config
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.rsp
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.exe
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.rsp
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.AppContext.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe.config
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.rsp
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe
+E:\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\ProyectoLuisNeyra\WebUI\bin\WebUI.dll.config
+E:\ProyectoLuisNeyra\WebUI\bin\WebUI.dll
+E:\ProyectoLuisNeyra\WebUI\bin\WebUI.pdb
+E:\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.dll
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.dll
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.dll
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.dll
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.dll
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.dll
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.dll
+E:\ProyectoLuisNeyra\WebUI\bin\WebGrease.dll
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.xml
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.xml
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.xml
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.xml
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.xml
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.xml
+E:\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.pdb
+E:\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.xml
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.xml
+E:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Helpers.resources.dll
+E:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Mvc.resources.dll
+E:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Optimization.resources.dll
+E:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Razor.resources.dll
+E:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.resources.dll
+E:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+E:\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.dll
+E:\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\ApplicationInsights.config
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe.config
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.rsp
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.exe
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.rsp
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.rsp
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\WebUI.dll.config
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\WebUI.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\WebUI.pdb
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\WebGrease.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.dll
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Alumno\Dropbox\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\ApplicationInsights.config
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.exe.config
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csc.rsp
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.exe
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\csi.rsp
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\vbc.rsp
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\WebUI.dll.config
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\WebUI.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\WebUI.pdb
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\WebGrease.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.Razor.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.Razor.resources.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.dll
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Luis Neyra\Dropbox\ProyectoLuisNeyra\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache

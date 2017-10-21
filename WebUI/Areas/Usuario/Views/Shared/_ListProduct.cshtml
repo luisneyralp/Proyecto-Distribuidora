@@ -1,0 +1,43 @@
+﻿
+<!--bottom-header-->
+<div class="header-bottom">
+    <div class="container">
+        <div class="header">
+            <div class="col-md-9 header-left">
+                <div class="top-nav">
+                    <ul class="memenu skyblue">
+                        <li class="grid">
+                            @Html.ActionLink("Inicio", "Index", "VistaGeneral")
+                        </li>
+                        <li class="grid">
+                            @Html.ActionLink("Almacén", "Almacen", "Categoria")
+                        </li>
+                        <li class="grid">
+                            @Html.ActionLink("Limpieza", "Limpieza", "Categoria")
+                        </li>
+                        <li class="grid">
+                            @Html.ActionLink("Bebidas", "Bebidas", "Categoria")
+                        </li>
+                        <li class="grid">
+                            @Html.ActionLink("Frescos", "Frescos", "Categoria")
+                        </li>
+                        <li class="grid">
+                            @Html.ActionLink("Contacto", "Contacto", "VistaGeneral")
+                        </li>
+                    </ul>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+            <div class="col-md-3 header-right">
+                <div class="search-bar">
+                    <input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+                    <input type="submit" value="">
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>
+<!--bottom-header-->
+
+

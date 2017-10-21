@@ -1,0 +1,42 @@
+﻿@model IEnumerable<WebUI.Entities.Producto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="bnr" id="home">
+    <div id="top" class="callbacks_container">
+        <ul class="rslides" id="slider4">
+            <li>
+                <img src="~/images/carousel1.jpg" alt="" />
+            </li>
+            <li>
+                <img src="~/images/carousel2.jpg" alt="" />
+            </li>
+            <li>
+                <img src="~/images/carousel3.jpg" alt="" />
+            </li>
+        </ul>
+    </div>
+    <div class="clearfix"> </div>
+</div>
+
+<br />
+<br />
+<div class="container heading">
+    <h2>Productos Destacados</h2>
+</div>
+<br /><br />
+<div class="container">
+    <div class="row">
+        <section id="mainContent" class="col-md-12">
+            <div class="row is-flex">
+                @foreach (var item in Model)
+                {
+                    @Html.Partial("_Producto", item)
+                }
+            </div>
+        </section>
+    </div>
+</div>
+

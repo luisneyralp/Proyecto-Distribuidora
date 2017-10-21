@@ -1,0 +1,98 @@
+﻿@model IEnumerable<WebUI.Entities.Producto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <ol class="breadcrumb">
+        <li>@Html.ActionLink("Inicio", "Index", "VistaGeneral")</li>
+        <li>Gestion de Productos</li>
+    </ol>
+    <div class="col-md-10">
+        <h2>Gestión de Productos</h2>
+        @Html.ActionLink("Nuevo Producto", "Nuevo", null, new { @class = "btn btn-primary pull-left" })
+        @Html.ActionLink("Productos Destacados", "ProductosDestacados", null, new { @class = "btn btn-warning pull-right" })
+        <br class="clearfix" />
+        <br />
+        @using (Html.BeginForm())
+            {
+            @Html.AntiForgeryToken()
+            <div class="form-inline">
+                <div class="form-group">
+                    @Html.DropDownList("categoriaId", new SelectList(ViewBag.Categorias, "Id", "Nombre"), "Todas las categorias", new { @class = "form-control" })
+                </div>
+                <button type="submit" class="btn btn-default">Filtrar</button>
+            </div>
+        }
+        <br />
+        @if (Model.Count() > 0)
+            {
+            <table class="table table-hover table-bordered">
+                <tr>
+                    <th class="text-info" style="width:100px;">
+                        Imagen
+                    </th>
+                    <th class="text-info">
+                        Nombre
+                    </th>
+                    <th class="text-info">
+                        Codigo
+                    </th>
+                    <th class="text-info">
+                        Precio
+                    </th>
+                    <th class="text-info">
+                        Descripción
+                    </th>
+                    <th class="text-info">
+                        Gestión
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @if (item.ImagenUri != "")
+                            {
+                                <img src="@Url.Content(item.ImagenUri)" alt="Image" class="img-responsive" />
+                            }
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Codigo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Precio)$
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Descripcion)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Editar", "Editar", new { id = item.Id })
+                        </td>
+                        <td>
+                            @Html.ActionLink("Dar Baja", "Baja", new { id = item.Id }, new { @class = "text-danger" })
+                        </td>
+                        @if (item.Destacado == 0)
+                        {
+                            <td>
+                                @Html.ActionLink("Destacar Producto", "Destacar", new { id = item.Id }, new { @class = "text-warning" })
+                            </td>
+                        }
+                    </tr>
+                }
+
+            </table>
+        } //del If Model.Count() > 0
+        else
+        {
+            @Html.Partial("_GrillaVacia")
+        }
+
+    </div>
+</div>

@@ -1,0 +1,72 @@
+﻿@model IEnumerable<WebUI.Entities.Producto>
+
+@{
+    ViewBag.Title = "VerPedido";
+}
+
+<div class="container">
+    <ol class="breadcrumb">
+        <li>@Html.ActionLink("Inicio", "Index", "VistaGeneral")</li>
+        <li>@Html.ActionLink("Lista Pedidos", "Index", "Pedido")</li>
+        <li>Ver Pedido</li>
+    </ol>
+    <div>
+        <h3>Cliente: </h3> <p class="text-warning"><strong>@ViewBag.NombreCompleto</strong></p>
+        <br />
+        <h3>Monto Total: </h3> <p class="text-warning"> <strong>@ViewBag.MontoTotal$ </strong></p>
+    </div>
+    <div class="col-md-6">
+        <h2>Lista de Productos</h2>
+
+        <table class="table">
+            <tr>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.Codigo)
+                </th>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th class="text-info">
+                    Precio Unitario
+                </th>
+                <th class="text-info">
+                    @Html.DisplayNameFor(model => model.Cantidad)
+                </th>
+                <th class="text-info">
+                    Precio Total
+                </th>
+                <th class="text-info">
+                    Descripción
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Codigo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Precio)$
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cantidad)
+                    </td>
+                    <td>
+                        @(item.Cantidad*item.Precio)$
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+    <div class="col-md-6">
+        
+    </div>
+</div>

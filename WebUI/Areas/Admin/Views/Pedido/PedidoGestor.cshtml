@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "PedidoGestor";
+}
+
+<div class="container">
+    <ol class="breadcrumb">
+        <li>@Html.ActionLink("Inicio", "Index", "VistaGeneral")</li>
+        <li>@Html.ActionLink("Lista Pedidos", "Index", "Pedido")</li>
+        <li>Borrar Pedido</li>
+    </ol>
+    <h2>Gestión Pedido</h2>
+    
+    <h3>Borrar pedidos</h3>
+    <p class="text-danger">
+        Al borrar los pedidos, usted borrará todos los pedidos actuales hechos por los
+        clientes en esta semana. Si los pedidos de la semana ya han sido concluidos, por favor eliminelos
+    </p>
+    @Html.ActionLink("Eliminar Pedidos", "SetearPedido", "Pedido", null, new { @class = "btn btn-danger" })
+
+    <br />
+    <br />
+
+</div>

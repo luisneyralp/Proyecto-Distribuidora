@@ -1,0 +1,79 @@
+﻿@model WebUI.Areas.Usuario.Models.ContactViewModel
+@{
+    ViewBag.Title = "Contacto";
+}
+
+
+<div class="container">
+    <ol class="breadcrumb">
+        <li>@Html.ActionLink("Inicio", "Index", "VistaGeneral")</li>
+        <li>Contacto</li>
+    </ol>
+    <div class="contact-top heading">
+        <h2>CONTACTO</h2>
+        <br />
+        <p>¿Tenés alguna consulta para hacernos? Completá el siguiente formulario.</p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 ">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal"><br />
+
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Mensaje, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.TextArea("Mensaje", new { rows = 6, columns = 80 })
+                            @Html.ValidationMessageFor(model => model.Mensaje, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Enviar" class="btn btn-info btn-lg btn-fill" />
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="col-md-4">
+            <div class="address">
+                <h5>Dirección</h5>
+                <p>
+                    Tel:0800-21-5164
+                    <span>La Plata</span>
+                    Email: distribuidoraHextech@gmail.com
+                </p>
+            </div>
+            <div class="address">
+                <h5>Dirección2</h5>
+                <p>
+                    Tel:1115550001
+                    <span>Berazategui</span>
+                    Email: distribuidoraHextech2@gmail.com
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}
